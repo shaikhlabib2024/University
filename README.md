@@ -1,2 +1,2 @@
 # CSE-Lab-Courses
-All the problems solved in Uni
+All the problems solved in University
